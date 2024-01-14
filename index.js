@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "Chúc mừng sinh nhật Như xinh gái nha 😊." //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "Chúc mừng sinh nhật cậu nha (Như siêu dễ thương 😊)." //Lời mở đầu cho bức thư
 const mainContentLetter = "Hép bi bớt đây cô gái. Chúc cậu một ngày tràn ngập những lời chúc, quà tặng,...., luôn giữ nụ cười trên môi nha, lại thêm một tuổi rồi bớt quát tui lại nha." //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
